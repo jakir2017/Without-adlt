@@ -1297,7 +1297,8 @@ http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="acb-tv" tvg-name="ACB TV" tvg-language="Russian" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/5/5d/ACB_TV.svg/revision/latest/scale-to-width-down/150?cb=20171104164504&path-prefix=ru" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",ACB TV (720p)
 https://strm.yandex.ru/kal/acb/acb0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" tvg-country="US" tvg-url="" group-title="Entertainment",Adult Swim (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" tvg-country="US" tvg-url="" group-title="Entertainment",
+Swim (1080p)
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
