@@ -52,7 +52,9 @@ http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="EKUSHEY TV" tvg-logo="https://www.ssl.com.bd/sites/default/files/styles/medium/public/ekushe%20tv_1.png?itok=VBwT83hA" group-title="",EKUSHEY TV 1
 http://cdnbdlan.thunderbd.com/65/index.m3u8?token=d654eeb75898e6dbb6abb4259a69acac2572b57d-ce7d7f0f671beeba7b116b3e2316fa56-1611899807-1611889007&remote=103.204.208.22
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/channel-9.jpg" group-title="",Channel 9
-http://cdnbdlan.thunderbd.com/4/index.m3u8?token=6e5a6e504ad74b9c11208c61b0852ab880024765-10972463e59541b6cdfb56fded48c2f1-1611898686-1611887886&remote=103.204.208.22
+https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/channel-9.jpg" group-title="",Channel 9 1
+https://cdn.oc.bd-cast.com/radiant/ninechannel.m3u8?st=_amscR4xMund91g6Rjc62w&e=1612409664
 #EXTINF:-1 tvg-logo="https://likeetv.com/uploads/tv_image/channel24.jpg" group-title="",CHANNEL 24
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-1 tvg-logo="https://likeetv.com/uploads/tv_image/channel24.jpg" group-title="",CHANNEL 24
