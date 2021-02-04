@@ -71,7 +71,7 @@ http://bdiptv.net:8080/BangladeshCricketHD/tracks-v1a1/mono.m3u8?token=08c6ef9b6
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVQRDc2rISyZIq1bfQsdw46VfDSdElhUmTL6kOoA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="",Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVQRDc2rISyZIq1bfQsdw46VfDSdElhUmTL6kOoA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="",Independent 1
-http://cdnbdlan.thunderbd.com/12/index.m3u8?token=26f8458e7d2e3199bc99e4b720aacb894ffa0764-15d42b6e43948b63b09b897a80aaabaa-1611899609-1611888809&remote=103.204.208.22
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVQRDc2rISyZIq1bfQsdw46VfDSdElhUmTL6kOoA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="",Independent 2
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ZEE BANGLA" tvg-logo="http://10.16.100.244/files/zeebanglahd.png" group-title="",ZEE BANGLA HD 1
