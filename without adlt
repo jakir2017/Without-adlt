@@ -130,6 +130,10 @@ http://rv.therevenge.co:80/565656/565656/78917?checkedby:hlscat.com
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17506.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD" tvg-logo="https://i.pinimg.com/originals/f0/33/ed/f033ed4b7ddf099c052c07cb796b6a25.jpg" group-title="",STAR GOLD
 http://cdnbdlan.thunderbd.com/75/index.m3u8?token=fed97022ae8c6cae13400d1f2f95ba3cf3085259-b52dec630b613d5a129f7f5d612113ad-1611893122-1611882322&remote=103.204.208.22
+#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD" tvg-logo="https://tinyurl.com/yyrl5oou" group-title="",STAR GOLD 2
+http://185.71.64.167:80/307245103371/307245103371/83542?checkedby:hlscat.com
+#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD" tvg-logo="https://tinyurl.com/y5emkc9z" group-title="",STAR GOLD SELECT HD
+http://185.71.64.167:80/307245103371/307245103371/83710?checkedby:hlscat.com
 #EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 2 HD" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/27bE6UrXVzf.png" group-title="",SONY TEN 2 HD
 http://cdnbdlan.thunderbd.com/21/index.m3u8?token=246fbf32ccb88276245e5090823911f01f5ff4ef-0108e98f04369d11597ece11790ff439-1611893422-1611882622&remote=103.204.208.22
 #EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 2-1 HD" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/27bE6UrXVzf.png" group-title="",SONY TEN 2-1 HD
@@ -294,7 +298,7 @@ http://10.16.100.206/ftps3/ftps3d4/Movies/Hindi/Lahore%20Confidential%20(2021)%2
 #EXTINF:-1 tvg-id="" tvg-name="KAAGAZ" tvg-language="" tvg-logo="http://10.16.100.244/files/kaagaz.jpeg" tvg-country="IN" tvg-url="" group-title="Hindi Movie",KAAGAZ-2021
 http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/Kaagaz%20(2021)%201080p%20WEBDL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Power" tvg-language="" tvg-logo="http://10.16.100.244/files/kaagaz.jpeg" tvg-country="IN" tvg-url="" group-title="Hindi Movie",The Power-2021
-http://index1.circleftp.net/FILE/Hindi%20Movies/2021/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264.mkvEB-DL%20HIN%20AAC2.0%20H.264/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264.mkv
+http://index1.circleftp.net/FILE/Hindi%20Movies/2021/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264.mkv
 
 #EXTINF:-1 <---International Channel--->
 
