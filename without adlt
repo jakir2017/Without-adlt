@@ -169,7 +169,6 @@ https://live.bongobd.com/hls/RRxnofkcQKzDdear_A93Wg/1611888448/sa_tv_hi/index.m3
 #EXTINF:-1 tvg-ID="" tvg-name="SATV 1" tvg-logo="https://i2.wp.com/shadhinota.tv/wp-content/uploads/2019/04/satv.png?fit=401%2C226&ssl=1" group-title="",SATV 1
 http://cdnbdlan.thunderbd.com/15/index.m3u8?token=c404f9afbae10017a86b18218385db7e1621d400-3e86b095c7f78af33e65fb253af1477a-1611895385-1611884585&remote=103.204.208.22
 #EXTINF:-1 tvg-ID="" tvg-name="SANGEET BANGLA" tvg-logo="https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/a0/f0/d282164045afb04f021e2e824b24/1586459406499_sangeetbangla_16x9Images.jpg" group-title="",SANGEET BANGLA
- 
 #EXTINF:-1 tvg-ID="" tvg-name="SANGEET BANGLA 1" tvg-logo="https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/a0/f0/d282164045afb04f021e2e824b24/1586459406499_sangeetbangla_16x9Images.jpg" group-title="",SANGEET BANGLA 1
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SANGEET BANGLA 2" tvg-logo="https://snagfilms-a.akamaihd.net/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/a0/f0/d282164045afb04f021e2e824b24/1586459406499_sangeetbangla_16x9Images.jpg" group-title="",SANGEET BANGLA 2
@@ -179,7 +178,7 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="",PTV Sports
 http://cdnbdlan.thunderbd.com/73/index.m3u8?token=63d7a30e563a8867a5b6c37b5c776b7040553d3d-fe5e0de4d15257d6fb9ac57e1e74e12c-1611895706-1611884906&remote=103.204.208.22
 #EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/S4fGKjtz0os.png" group-title="",NICK
-http://cdnbdlan.thunderbd.com/55/index.m3u8?token=d7dd76400e5c188e5c138fca0b6f158cc69193c4-421535be6634e980a26a1e5992ee359a-1611895864-1611885064&remote=103.204.208.22
+http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NICK 1" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/S4fGKjtz0os.png" group-title="",NICK 1
 https://edge4.bioscopelive.com/hls/anonymous/vXegdiMEjcfXGXwJyJueBQ/1611889050/nickelodeon_hi/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/640px-Nat_Geo_HD_Logo.svg.png" group-title="",NATIONAL GEOGRAPHIC
@@ -296,6 +295,46 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& PRIVE HD" tvg-language="" tvg-logo="https://tinyurl.com/y69uffqv" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE CROODS A NEW AGE" tvg-language="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age.jpg" tvg-country="IN" tvg-url="" group-title="Animation Movie",THE CROODS A NEW AGE-2020 Oct 25
+http://10.16.100.248/ftps6d1/Movies/Animation/The%20Croods%20A%20New%20Age%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE DONKEY KING" tvg-language="" tvg-logo="http://10.16.100.244/files/the_donkey_king.jpg" tvg-country="IN" tvg-url="" group-title="Animation Movie",THE DONKEY KING-2020
+http://10.16.100.206/ftps3/ftps3d6/Movies/Animated/The%20Donkey%20King%20(2020)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 PERCENT WOLF" tvg-language="" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" tvg-country="IN" tvg-url="" group-title="Animation Movie",100 PERCENT WOLF-2020
+http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC ARCH 3D" tvg-language="" tvg-logo="http://10.16.100.244/files/magic_arch_3d.jpg" tvg-country="IN" tvg-url="" group-title="Animation Movie",MAGIC ARCH 3D-2020
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Magic%20Arch%203D%20(2020)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MASTER (AUDIO - TAMIL)" tvg-language="" tvg-logo="http://10.16.100.244/files/master__audio___tamil_.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",MASTER (AUDIO - TAMIL)-2021
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/South%20Indian/Tamil/Master%20(2021)%20Tamil%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SUPER OVER" tvg-language="" tvg-logo="http://10.16.100.244/files/super_over.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",SUPER OVER-2021
+http://10.16.100.206/ftps3/ftps3d2/Movies/South%20Indian/Super%20Over%20(2021)%20Tamil%201080%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SKUNTHI" tvg-language="" tvg-logo="http://10.16.100.244/files/kunthi.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",KUNTHI-2021
+http://10.16.100.248/ftps6d1/Movies/South%20Indian/Kunthi%20(2021)%201080p%20BluRay%20.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MAARA" tvg-language="" tvg-logo="http://10.16.100.244/files/maara.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",MAARA-2021
+http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian/Maara%20(2021)%20720p%20HDRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ALLUDU ADHURS" tvg-language="" tvg-logo="http://10.16.100.244/files/alludu_adhurs.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",ALLUDU ADHURS-2021
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian/Telegu/Alludu%20Adhurs%20(2021)%20Telugu%20PreDVDRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RED" tvg-language="" tvg-logo="http://10.16.100.244/files/red__2021_.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",RED-2021
+http://10.16.100.202/ftps10/iccftps10sasd5/Movies/South%20Indian/Telegu/Red%20(2021)%20Telugu%20HQ%20PreDVD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KRACK" tvg-language="" tvg-logo="http://10.16.100.244/files/krack.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",KRACK-2021
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/South%20Indian/Krack%20(2021)%20Telugu%20HQ%20DVDSrc.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PULIKKUTHI PANDI" tvg-language="" tvg-logo="http://10.16.100.244/files/pulikkuthi_pandi.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",PULIKKUTHI PANDI-2021
+http://10.16.100.248/ftps6d4/Movies/South%20Indian/Pulikkuthi%20Pandi%20(2021)%20Tamil%201080p%C2%A0WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE GREAT INDIAN KITCHEN (ORU KUDAM)" tvg-language="" tvg-logo="http://10.16.100.244/files/the_great_indian_kitchen__oru_kudam_.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",THE GREAT INDIAN KITCHEN (ORU KUDAM)-2021
+http://10.16.100.248/ftps6d3/Movies/South%20Indian/The%20Great%20Indian%20Kitchen%20(Oru%20Kudam)%20(2021)%20Malayam%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BHOOMI" tvg-language="" tvg-logo="http://10.16.100.244/files/bhoomi.jpg" tvg-country="IN" tvg-url="" group-title="South Indian Movies",BHOOMI-2021
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/South%20Indian/Bhoomi%20(2021)%201080P%20WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FAMOUS LOVER" tvg-language="" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg" tvg-country="IN" tvg-url="" group-title="South Indian (Hindi Dubbed)",WORLD FAMOUS LOVER-2021
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/World%20Famous%20Lover%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MASTER" tvg-language="" tvg-logo="http://10.16.100.244/files/master.jpg" tvg-country="IN" tvg-url="" group-title="South Indian (Hindi Dubbed)",MASTER-2021
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Master%20(2021)%201080p%20PreDVD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOLO BRATHUKE SO BETTER" tvg-language="" tvg-logo="http://10.16.100.244/files/solo_brathuke_so_better.jpg" tvg-country="IN" tvg-url="" group-title="South Indian (Hindi Dubbed)",SOLO BRATHUKE SO BETTER-2020
+http://10.16.100.248/ftps6d4/Movies/South%20Indian(Hindi%20Dubbed)/Solo%20Brathuke%20So%20Better%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAHORE CONFIDENTIAL" tvg-language="" tvg-logo="http://10.16.100.244/files/lahore_confidential.jpg" tvg-country="IN" tvg-url="" group-title="Drama",LAHORE CONFIDENTIAL-2021
+http://10.16.100.206/ftps3/ftps3d4/Movies/Hindi/Lahore%20Confidential%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KAAGAZ" tvg-language="" tvg-logo="http://10.16.100.244/files/kaagaz.jpeg" tvg-country="IN" tvg-url="" group-title="Hindi Movie",KAAGAZ-2021
+http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/Kaagaz%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Power" tvg-language="" tvg-logo="http://10.16.100.244/files/kaagaz.jpeg" tvg-country="IN" tvg-url="" group-title="Hindi Movie",The Power-2021
+http://index1.circleftp.net/FILE/Hindi%20Movies/2021/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264/The%20Power%202021%201080p%20ZEE5%20WEB-DL%20HIN%20AAC2.0%20H.264.mkv
 
 #EXTINF:-1 <---International Channel--->
 
